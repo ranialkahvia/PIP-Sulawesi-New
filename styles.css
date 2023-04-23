@@ -1,0 +1,199 @@
+.navbar {
+    text-align: center;
+}
+
+.active {
+    font-size: 20px;
+}
+
+.nav-title {
+    margin: 12.5px auto;
+}
+
+.navbar-nav > li> a {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    text-align: justify;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:grey;
+}
+
+.navbar-nav {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    text-align: justify;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:#FFF;
+}
+
+.heading{
+    text-align: center;
+
+}
+
+.heading h2 {
+    color:#333 ;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+.container {
+    border: 3px solid black;
+    display: inline-block;
+    padding: 0px;
+}
+
+.row {
+    border: 3px solid black;
+}
+
+.thumbnail {
+    margin-left: 500px;
+    text-align: center;
+    margin-right: 500px;
+    margin-top: 30px;
+}
+
+#legend {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    color: #333;
+    background-color: #FFF;
+    border: 1px solid #CCC;
+    padding: 20px;
+    box-shadow: 0px 0px 5px #CCC;
+  }
+
+  .text {
+    font-family: Arial, sans-serif;
+    font-size: 13px;
+    line-height: 0.5;
+    text-align: center;
+}
+
+.text2 {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: -0.5;
+    text-align: center;
+}
+
+.text3 {
+    font-family: Arial, sans-serif;
+    font-size: 13px;
+    line-height: -0.9;
+    text-align: center;
+}
+
+.prov {
+    font-family: Arial, sans-serif;
+    font-size: 14px; 
+    position: absolute;
+    display: inline-block;
+    vertical-align: middle;
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+  }
+
+#background {
+    margin-top: 0px;
+    background:url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-_oqWa0APpmxU2hzvdsGqK-vf-oWwwCZdoOxVji62sDlUGW2RaBeIqQr9fSjo86J4--4O1moksZcE8tmhY_i5V1VRuphnkpMuMrRGTpfbQO-yzmkR7mdSCeZSYeDGXJ4cbQpjCG6PizCqy5yvzIwR6NDM8UBQLTYbYmpfXYMzBRbvuVUu1evvQ4o4Ww/w470-h264/Desain%20tanpa%20judul.png) no-repeat ;
+    padding-top: 111px;
+    height: 542px;
+    max-height: 1000px;
+    background-size:cover;
+}
+
+#background .jumbotron {
+    background: none;
+    margin-left: 300px;
+    max-width: 500px;
+    margin-top: -0.3px;
+}
+#background .jumbotron h1{
+    font-family: nexa;
+    color:#333;
+    margin-bottom: 12px;
+}
+
+#background .jumbotron p{
+    font-family: nexa;
+    color:#333;
+    margin-bottom: 12px;
+    text-align: justify;
+}
+
+#background2 {
+    background:url(https://images.pexels.com/photos/3401403/pexels-photo-3401403.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1) no-repeat ;
+    padding-top: 150px;
+    height: 600px;
+    max-height: 1000px;
+    background-size:cover;
+    margin-top: 50px;
+}
+
+#background2 .jumbotron2 {
+    background: none;
+    margin-left: 750px;
+    max-width: 500px;
+    margin-top: 3px;
+}
+#background2 .jumbotron2 h1{
+    font-family: nexa;
+    color:#FFF;
+    margin-bottom: 12px;
+    margin-top: 0px;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+#background2 .jumbotron2 p{
+    font-family: nexa;
+    color:#FFF;
+    margin-bottom: 12px;
+    text-align:justify;
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-top: 0px;
+}
+
+#background3 {
+    margin-top: 0px;
+    background:url(https://images.unsplash.com/photo-1584568518279-d781778d1481?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80) no-repeat ;
+    padding-top: 200px;
+    height: 800px;
+    max-height: 1000px;
+    background-size:cover;
+    margin-top: 50px;
+    opacity: 0.9;
+}
+
+#background3 .jumbotron3 {
+    background: none;
+    margin-left: 300px;
+    max-width: 500px;
+    margin-top: -0.3px;
+}
+#background3 .jumbotron3 h1{
+    font-family: nexa;
+    color:#333;
+    margin-bottom: 12px;
+    margin-top: 1px;
+}
+
+#background3 .jumbotron3 p{
+    font-family: nexa;
+    color:#FFF;
+    margin-bottom: 12px;
+    text-align: justify;
+    margin-top: 10px;
+}
+
+#background3 .jumbotron3 p2{
+    font-family: nexa;
+    color:#333;
+    margin-bottom: 12px;
+    text-align: justify;
+    margin-top: 10px;
+}
+    

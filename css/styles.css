@@ -1,0 +1,67 @@
+.heading{
+    text-align: center;
+
+}
+
+.heading h1 {
+    color:#333 ;
+
+}
+
+.container {
+    border: 3px solid black;
+    display: inline-block;
+    padding: 10px;
+}
+
+.row {
+    border: 3px solid black;
+}
+
+#gambar {
+    max-width: fit-content;
+    max-height: fit-content;
+    margin: auto;
+    text-align: center;
+}
+
+#legend {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    color: #333;
+    background-color: #FFF;
+    border: 1px solid #CCC;
+    padding: 10px;
+    box-shadow: 0px 0px 5px #CCC;
+  }
+
+.prov {
+    font-family: Arial, sans-serif;
+    font-size: 14px; 
+    position: absolute;
+    display: inline-block;
+    vertical-align: middle;
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+  }
+
+.text {
+    font-family: Arial, sans-serif;
+    font-size: 13px;
+    line-height: 0.5;
+    text-align: center;
+}
+
+.text2 {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: -0.5;
+    text-align: center;
+}
+
+.text3 {
+    font-family: Arial, sans-serif;
+    font-size: 13px;
+    line-height: -0.9;
+    text-align: center;
+}
